@@ -1,0 +1,27 @@
+package sub3;
+
+import java.util.Scanner;
+
+public class MyForTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int num;
+		Scanner sc= new Scanner(System.in);
+		
+		System.out.println("몇층의 별을 쌓을 것인가?");
+		num=sc.nextInt();
+		
+		num=(num/2);
+		
+		for(int i=num;i<;i++) {
+			for(int j=1;j<num;j++) {
+				if((num/2)+1)
+					System.out.print("*");
+				System.out.print(" ");
+			}
+		}
+	}
+
+}

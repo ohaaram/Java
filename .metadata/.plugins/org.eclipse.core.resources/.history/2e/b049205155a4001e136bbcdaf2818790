@@ -1,0 +1,16 @@
+package sub2;
+
+/*
+ * 날짜 : 2023/12/27
+ * 이름 : 오아람
+ * 내용 : Java Switch 실습하기
+ * 
+ */
+public class SwitchTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,14 @@
+package sub1;
+
+
+/*
+ * 내용 : Java 조건문 if 실습하기
+ */
+public class IfTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

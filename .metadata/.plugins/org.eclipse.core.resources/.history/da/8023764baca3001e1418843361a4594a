@@ -1,0 +1,21 @@
+package sub2;
+
+/*
+ * 날짜 : 2023/12/26
+ * 이름 : 오아람
+ * 내용 : Java 자료형 실습하기
+ */
+public class DataTypeTest {
+	
+	public static void main(String[] args) {
+		//정수형
+		
+		//실수형
+		
+		//논리형
+		
+		//문자형
+		
+		//문자열
+	}
+}
