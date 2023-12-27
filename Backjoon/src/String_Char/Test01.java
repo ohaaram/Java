@@ -16,6 +16,7 @@ public class Test01 {
 		
 		
 		//String b = sc.next();
+		//git에서 직접 수정이 되네?
 		
 		System.out.println(a.charAt(num-1));
 	}
