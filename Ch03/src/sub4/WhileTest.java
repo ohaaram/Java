@@ -2,7 +2,9 @@ package sub4;
 
 public class WhileTest {
 	/*
-	 * 날짜 : 2023/12/28 이름 : 오아람 내용 : while 실습하기
+	 * 날짜 : 2023/12/28
+	 * 이름 : 오아람
+	 * 내용 : while 실습하기
 	 */
 	public static void main(String[] args) {
 
@@ -50,7 +52,6 @@ public class WhileTest {
 		int n = 1;
 
 		while (n <= 10) {
-
 			n++;
 			if (n % 2 == 1) {
 				continue;

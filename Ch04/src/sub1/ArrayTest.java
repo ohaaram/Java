@@ -14,9 +14,9 @@ public class ArrayTest {
 		String [] arr3 = {"서울","대전","대구","부산","광주"};
 		//원소 출력
 		
-		System.out.println("arr1[0] :"+arr1[0]);
-		System.out.println("arr1[2] :"+arr1[2]);
-		System.out.println("arr1[3] :"+arr1[3]);
+		System.out.println("arr1[0] : "+arr1[0]);
+		System.out.println("arr1[2] : "+arr1[2]);
+		System.out.println("arr1[3] : "+arr1[3]);
 		System.out.println("arr2[2] : "+arr2[2]);
 		System.out.println("arr3[3] : "+arr3[3]);
 
@@ -77,6 +77,10 @@ public class ArrayTest {
 				for(int k=0;k<arr3d.length;k++) {
 					System.out.printf("arr3d[%d][%d][%d] : %d",i,j,k,arr3d[i][j][k]);
 					System.out.println();
+					
+					
+					
+					
 				}
 			}
 		}
