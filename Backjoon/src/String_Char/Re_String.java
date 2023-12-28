@@ -19,9 +19,17 @@ public class Re_String {
 		System.out.print("뒤에서부터 몇글자 출력? :");
 		num=sc.nextInt();
 		
+		//역방향으로 출력
 		String result =my_string.substring(my_string.length()-num);		
-		System.out.println(result);	
 
+		System.out.println(result);	
+		
+		//정방향으로 출력
+		result="";
+		for(int i=0;i<num;i++)
+			result+=my_string.charAt(i);
+
+		System.out.println(result);
 	}
 
 }
