@@ -10,7 +10,7 @@ public class Test04 {
 		
 		System.out.print("점수입력 : ");
 		int score=sc.nextInt();
-		int grade=0;
+		char grade;
 		
 		System.out.println("입력한 점수는 "+score+"입니다.");
 		

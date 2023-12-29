@@ -18,7 +18,7 @@ public class MethodTest {
 		System.out.println("결과 값2은 : " + y2);
 		System.out.println("결과 값3은 : " + y3);
 
-		// 메서드 지역변수와 콜스택:메서드 실행에  사용된 스택을 콜스택이라고 한다.
+		// 메서드 지역변수와 콜스택:메서드 실행에 사용된 스택을 콜스택이라고 한다.
 		int t1=sum(1,10);
 		int t2=sum(1,100);
 		
