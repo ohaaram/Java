@@ -46,7 +46,7 @@ public class InterfaceTest {
 		
 		//인터페이스 예제2 - 유연성(결합도 완화)->다시 해보기!!
 		Bulb bulb = new Bulb();
-		Socket socket = new Cable(bulb);	
+		Socket socket = new Cable(bulb);
 		
 		socket.swtichOn();
 		socket.swtichOff();
@@ -54,7 +54,7 @@ public class InterfaceTest {
 		//인터페이스 예제3 - 다중 상속 효과 : 하나는 클래스, 하나는 인터페이스
 		
 		Tv smartTv = new Tv();//여기서는 Tv를 Computer로 바꾸지 못한다.
-		//Computer로 바꾸면 
+		//Computer로 바꾸면 boot()는 가능하나 access()와 show()에서 에러남. 
 		smartTv.boot();
 		smartTv.access();
 		smartTv.show();
