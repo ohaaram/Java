@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="sub1.Vehicle"/>
-    <fullyQualifiedTypeName name="sub1.VipCustomer"/>
-    <fullyQualifiedTypeName name="sub1.Television"/>
-    <fullyQualifiedTypeName name="sub1.Product"/>
-    <fullyQualifiedTypeName name="sub1.Computer"/>
-    <fullyQualifiedTypeName name="sub1.Circle"/>
-    <fullyQualifiedTypeName name="sub1.Triangle"/>
-    <fullyQualifiedTypeName name="sub1.Seller"/>
-    <fullyQualifiedTypeName name="sub1.Buyer"/>
-    <fullyQualifiedTypeName name="sub1.Customers"/>
-    <fullyQualifiedTypeName name="sub5.Child"/>
-    <fullyQualifiedTypeName name="sub5.Parent"/>
-    <fullyQualifiedTypeName name="sub5.Child02"/>
-    <fullyQualifiedTypeName name="sub5.Child03"/>
-    <fullyQualifiedTypeName name="sub5.HankookTire"/>
-    <fullyQualifiedTypeName name="sub5.KumhoTire"/>
     <fullyQualifiedTypeName name="sub5.Driver"/>
     <fullyQualifiedTypeName name="sub5.Bus"/>
     <fullyQualifiedTypeName name="sub5.Taxi"/>
@@ -36,7 +20,6 @@
     <fullyQualifiedTypeName name="sub9.Television"/>
     <fullyQualifiedTypeName name="sub9.Audio"/>
     <fullyQualifiedTypeName name="java.lang.ClassCastException"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="sub02.Score"/>
@@ -49,9 +32,7 @@
     <fullyQualifiedTypeName name="sub10.SmartTelevision"/>
     <fullyQualifiedTypeName name="sub11.InterfaceA"/>
     <fullyQualifiedTypeName name="sub11.InterfaceB"/>
-    <fullyQualifiedTypeName name="sub1.Apple"/>
     <fullyQualifiedTypeName name="java.io.CharConversionException"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
@@ -60,4 +41,23 @@
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
     <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="sub1.Banana"/>
+    <fullyQualifiedTypeName name="sub1.FruitBox"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="sub1.Apple"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.security.KeyStore.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="sub1.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
 </qualifiedTypeNameHistroy>
